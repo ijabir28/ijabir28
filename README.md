@@ -49,8 +49,8 @@ I’m **Jabir**, a full-stack developer with **3 years of professional experienc
 ---
 
 ## 📊 GitHub Stats
-![Jabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabir-liberatelab&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jabir-liberatelab&layout=compact&theme=radical)  
+![Jabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijabir28&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ijabir28&layout=compact&theme=radical)  
 
 ---
 
