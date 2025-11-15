@@ -2,7 +2,7 @@
 
 💻 **Full-Stack Software Engineer | Node.js | React.js | 🌍 Dhaka, Bangladesh**  
 
-I’m **Jabir**, a full-stack developer with **3 years of professional experience**, currently at **Liberate Labs**. I build scalable backend services (**Node.js**) and responsive frontend apps (**React.js, Next.js**), with experience in **MongoDB, MySQL, Redis**.
+I’m **Jabir**, a full-stack developer with **3 years of professional experience**, currently at **Liberate Labs**. I build scalable backend services (**Node.js**) and responsive frontend apps (**React.js, Next.js**), with experience in **MongoDB, PostgreSQL, MySQL, Redis**.
 
 ---
 
