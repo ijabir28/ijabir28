@@ -1,8 +1,8 @@
 # Hey, I'm Jabir 👋
 
-💻 **Full-Stack Software Engineer | Node.js | React.js | 🌍 Dhaka, Bangladesh**  
+💻 **Full Stack Software Engineer | Node.js | React.js | 🌍 Dhaka, Bangladesh**  
 
-I'm **Jabir**, a full-stack developer with **3+ years of professional experience**. I build scalable backend services (**Node.js**) and responsive frontend apps (**React**).
+I'm **Jabir**, a Full Stack Software Engineer with **3+ years of professional experience**. I build scalable backend services (**Node.js**) and responsive frontend apps (**React**).
 
 ---
 
