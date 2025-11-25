@@ -62,7 +62,7 @@ I'm **Jabir**, a Full Stack Software Engineer with **3+ years of professional ex
 ---
 
 ## 🤝 Let's Connect
-- 🌐 [GitHub](https://github.com/ijabir-liberatelab)  
+- 🌐 [GitHub](https://github.com/ijabir28)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ijabir28/)  
 - 📧 [jabirikamal@gmail.com](mailto:jabirikamal@gmail.com)  
   
